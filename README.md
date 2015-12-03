@@ -10,15 +10,19 @@ Trois mois plus tard, je démarrais ma formation d'intégrateur - développeur w
 
 ## Expériences professionnelles
 
-PROJET COLLABORATIF : ROADWEB v1 ```http://road-web.fr/``` (v2 en cours)
+PROJET COLLABORATIF : ROADWEB v1 ```http://road-web.fr/``` (v2 en cours)   
+
 SITE ELABORÉ A LA DEMANDE D'UN CLIENT : MA DOUCE PARENTHESE ```http://madouceparenthese.com``` (v2 en cours : ajout de CMS avec LARAVEL)
 
 
 ## Formations
 
-BAC - L
-LICENCE PSYCHOLOGIE OPTION DEVELOPEMENT DE L'ENFANT ET DE L'ADOLESCENT
-FORMATION EMWEB INTEGRATEUR-DEVELOPPEUR WEB
+BAC LITTERAIRE  
+
+LICENCE PSYCHOLOGIE OPTION DEVELOPEMENT DE L'ENFANT ET DE L'ADOLESCENT 
+
+FORMATION EMWEB INTEGRATEUR-DEVELOPPEUR WEB 
+
 SIMPLON FORMULE GAME OF CODES 6 MOIS (en cours)
 
 
