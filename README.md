@@ -5,7 +5,7 @@ Bonjour :)
 ## Présentation
 
 Je m'appelle Céline, j'ai 24 ans, j'ai découvert le code il y a quelques années en bidouillant du HTML et du CSS pour personnaliser l'apparence des forums :D A partir de là, et comme ma formation initiale ne me convenait plus, la réflexion a fait son bout de chemin et j'ai fini par me dire : "tu adores ça, pourquoi ne pas en faire ton métier ?!
-Trois mois plus tard, je démarrai ma formation d'intégrateur - développeur web... et depuis, c'est le bonheur !
+Trois mois plus tard, je démarrais ma formation d'intégrateur - développeur web... et depuis, c'est le bonheur !
 
 
 ## Expériences professionnelles
